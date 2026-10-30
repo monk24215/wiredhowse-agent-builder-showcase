@@ -1,0 +1,3 @@
+<?php
+
+HttpError::forbidden();

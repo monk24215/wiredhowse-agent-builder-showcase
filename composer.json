@@ -1,0 +1,13 @@
+{
+  "name": "wiredhowse/agent",
+  "description": "Standalone, embeddable Claude-powered agent with multi-instance support.",
+  "type": "project",
+  "require": {
+    "php": "^8.2",
+    "ext-pdo": "*",
+    "ext-pdo_mysql": "*",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "ext-mbstring": "*"
+  }
+}
